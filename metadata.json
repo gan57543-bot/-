@@ -1,0 +1,6 @@
+{
+  "name": "Smart Office Suite",
+  "description": "ระบบสรุปและจำลองโครงการ SMART OFFICE SUITE บริหารสำนักงานดิจิทัลสำหรับโรงเรียน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
